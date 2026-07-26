@@ -1,6 +1,6 @@
 # =========================================================
 # North America Media Pro
-# Version: 2026
+# Version: 2026 (NA Only)
 # Compatible:
 #   DOMAIN
 #   DOMAIN-SUFFIX
@@ -149,6 +149,7 @@ IP-CIDR,2a03:5640:f580::/41
 IP-CIDR,2a03:5640:f600::/39
 IP-CIDR,2a03:5640:f800::/37
 
+
 # =========================================================
 # Disney+
 # =========================================================
@@ -156,54 +157,26 @@ IP-CIDR,2a03:5640:f800::/37
 DOMAIN,espn.api.edge.bamgrid.com
 DOMAIN,espn.hb.omtrdc.net
 DOMAIN,espndotcom.tt.omtrdc.net
+DOMAIN,disney.my.sentry.io
 DOMAIN-SUFFIX,thisispolaris.com
 DOMAIN-SUFFIX,ngeo.com
-DOMAIN-SUFFIX,disneymagicmoments.pl
 DOMAIN-SUFFIX,disney.ca
-DOMAIN-SUFFIX,disney.ch
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,abc-studios.com
-DOMAIN-SUFFIX,starplus.com
-DOMAIN-SUFFIX,starott.com
-DOMAIN-SUFFIX,disneymagicmomentsme.com
 DOMAIN-SUFFIX,disney.com
 DOMAIN-SUFFIX,nationalgeographicpartners.com
 DOMAIN-SUFFIX,nationalgeographic.com
 DOMAIN-SUFFIX,natgeomaps.com
 DOMAIN-SUFFIX,themarvelexperiencetour.com
-DOMAIN-SUFFIX,disney.cz
-DOMAIN-SUFFIX,disney.de
-DOMAIN-SUFFIX,disney.dk
-DOMAIN-SUFFIX,disney.es
-DOMAIN-SUFFIX,disney.fi
-DOMAIN-SUFFIX,disney.fr
-DOMAIN-SUFFIX,disney.gr
-DOMAIN-SUFFIX,disney.hu
-DOMAIN-SUFFIX,disney.id
-DOMAIN-SUFFIX,disney.in
-DOMAIN-SUFFIX,disney.io
-DOMAIN-SUFFIX,disney.it
-DOMAIN-SUFFIX,disney.my
-DOMAIN-SUFFIX,disney.nl
-DOMAIN-SUFFIX,disney.no
-DOMAIN-SUFFIX,disney.ph
-DOMAIN-SUFFIX,disney.pl
-DOMAIN-SUFFIX,disney.pt
-DOMAIN-SUFFIX,disney.ro
-DOMAIN-SUFFIX,disney.ru
-DOMAIN-SUFFIX,disney.se
-DOMAIN-SUFFIX,disney.sg
 DOMAIN-SUFFIX,marvelsuperwar.com
 DOMAIN-SUFFIX,marvelsuperheroseptember.com
-DOMAIN-SUFFIX,20thcenturystudios.jp
 DOMAIN-SUFFIX,adventuresbydisney.com
 DOMAIN-SUFFIX,babble.com
 DOMAIN-SUFFIX,babyzone.com
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,marvelspotlightplays.com
 DOMAIN-SUFFIX,dilcdn.com
-DOMAIN-SUFFIX,disney-asia.com
 DOMAIN-SUFFIX,disney-discount.com
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,marvelsdoubleagent.com
@@ -216,26 +189,15 @@ DOMAIN-SUFFIX,disneybaby.com
 DOMAIN-SUFFIX,disneycareers.com
 DOMAIN-SUFFIX,disneychannelonstage.com
 DOMAIN-SUFFIX,disneychannelroadtrip.com
-DOMAIN-SUFFIX,disneycruisebrasil.com
-DOMAIN-SUFFIX,disneyenconcert.com
-DOMAIN-SUFFIX,disneyiejobs.com
 DOMAIN-SUFFIX,disneyinflight.com
 DOMAIN-SUFFIX,disneyinternational.com
 DOMAIN-SUFFIX,disneyinternationalhd.com
 DOMAIN-SUFFIX,disneyjunior.com
 DOMAIN-SUFFIX,disneyjuniortreataday.com
-DOMAIN-SUFFIX,disneylatino.com
 DOMAIN-SUFFIX,marvelpinball.com
 DOMAIN-SUFFIX,marvelparty.net
 DOMAIN-SUFFIX,marveldimensionofheroes.com
-DOMAIN-SUFFIX,disneymagicmoments.de
-DOMAIN-SUFFIX,disneymagicmoments.es
-DOMAIN-SUFFIX,disneymagicmoments.fr
 DOMAIN-SUFFIX,marvel10thanniversary.com
-DOMAIN-SUFFIX,disneymagicmoments.gr
-DOMAIN-SUFFIX,disneymagicmoments.it
-DOMAIN-SUFFIX,disney.bg
-DOMAIN-SUFFIX,disney.be
 DOMAIN-SUFFIX,watchdisneyfe.com
 DOMAIN-SUFFIX,disneymeetingsandevents.com
 DOMAIN-SUFFIX,disneymovieinsiders.com
@@ -245,14 +207,11 @@ DOMAIN-SUFFIX,disneynow.com
 DOMAIN-SUFFIX,disneypeoplesurveys.com
 DOMAIN-SUFFIX,marvel.com
 DOMAIN-SUFFIX,disneyplus.com
-DOMAIN-SUFFIX,hotstarext.com
 DOMAIN-SUFFIX,disneyredirects.com
 DOMAIN-SUFFIX,disneysrivieraresort.com
 DOMAIN-SUFFIX,disneystore.com
 DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,disneysubscription.com
-DOMAIN-SUFFIX,hotstar-labs.com
-DOMAIN-SUFFIX,hotstar-cdn.net
 DOMAIN-SUFFIX,disneytvajobs.com
 DOMAIN-SUFFIX,disneyworld-go.com
 DOMAIN-SUFFIX,dssott.com
@@ -260,56 +219,28 @@ DOMAIN-SUFFIX,go-disneyworldgo.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,mickey.tv
 DOMAIN-SUFFIX,moviesanywhere.com
-DOMAIN-SUFFIX,nomadlandmovie.ch
 DOMAIN-SUFFIX,playmation.com
 DOMAIN-SUFFIX,shopdisney.com
 DOMAIN-SUFFIX,shops-disney.com
 DOMAIN-SUFFIX,sorcerersarena.com
-DOMAIN-SUFFIX,spaindisney.com
-DOMAIN-SUFFIX,star-brasil.com
-DOMAIN-SUFFIX,star-latam.com
 DOMAIN-SUFFIX,starwars.com
 DOMAIN-SUFFIX,starwarsgalacticstarcruiser.com
 DOMAIN-SUFFIX,starwarskids.com
 DOMAIN-SUFFIX,streamingdisney.net
 DOMAIN-SUFFIX,thestationbymaker.com
-DOMAIN-SUFFIX,disney.asia
-DOMAIN-SUFFIX,disneyme.com
 DOMAIN-SUFFIX,dmed.technology
 DOMAIN-SUFFIX,dtci.co
 DOMAIN-SUFFIX,dtci.technology
 DOMAIN-SUFFIX,espn.com
 DOMAIN-SUFFIX,espn.net
 DOMAIN-SUFFIX,espncdn.com
-DOMAIN-SUFFIX,espnqa.com
 DOMAIN-SUFFIX,watchespn.com
 DOMAIN-SUFFIX,hotstar.com
-DOMAIN-SUFFIX,disney.co.za
-DOMAIN-SUFFIX,disney.co.uk
-DOMAIN-SUFFIX,disneytickets.co.uk
-DOMAIN-SUFFIX,disney.co.il
-DOMAIN-SUFFIX,disney.com.hk
 DOMAIN-SUFFIX,disneyplus.bn5x.net
-DOMAIN-SUFFIX,disneymagicmoments.gen.tr
-DOMAIN-SUFFIX,disneymagicmoments.co.za
-DOMAIN-SUFFIX,disneymagicmoments.co.uk
-DOMAIN-SUFFIX,disneymagicmoments.co.il
-DOMAIN-SUFFIX,disney.co.jp
-DOMAIN-SUFFIX,beautyandthebeastmusical.co.uk
-DOMAIN-SUFFIX,disneyturkiye.com.tr
-DOMAIN-SUFFIX,disney.co.kr
 DOMAIN-SUFFIX,hsprepack.akamaized.net
-DOMAIN-SUFFIX,20thcenturystudios.com.au
-DOMAIN-SUFFIX,disney.com.br
-DOMAIN-SUFFIX,disney.com.au
-DOMAIN-SUFFIX,disney.com.tw
-DOMAIN-SUFFIX,20thcenturystudios.com.br
-DOMAIN-SUFFIX,disney.co.th
-DOMAIN-SUFFIX,espn.co.uk
 DOMAIN-SUFFIX,disney-portal.my.onetrust.com
 DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
 DOMAIN-REGEX,^hses[1-7]?\.akamaized\.net$
-DOMAIN,disney.my.sentry.io
 
 
 # =========================================================
@@ -328,7 +259,6 @@ DOMAIN-SUFFIX,hu1u.com
 DOMAIN-SUFFIX,huloo.cc
 DOMAIN-SUFFIX,huloo.tv
 DOMAIN-SUFFIX,hulu.com
-DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,hulu.tv
 DOMAIN-SUFFIX,hulu.us
 DOMAIN-SUFFIX,huluaction.com
@@ -338,19 +268,15 @@ DOMAIN-SUFFIX,huluasks.com
 DOMAIN-SUFFIX,hulucall.com
 DOMAIN-SUFFIX,hulufree.com
 DOMAIN-SUFFIX,hulugans.com
-DOMAIN-SUFFIX,hulugermany.com
 DOMAIN-SUFFIX,hulugo.com
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,huluinstantmessenger.com
-DOMAIN-SUFFIX,huluitaly.com
 DOMAIN-SUFFIX,hulunet.com
 DOMAIN-SUFFIX,hulunetwork.com
 DOMAIN-SUFFIX,huluplus.com
 DOMAIN-SUFFIX,hulupremium.com
 DOMAIN-SUFFIX,hulupurchase.com
 DOMAIN-SUFFIX,huluqa.com
-DOMAIN-SUFFIX,hulurussia.com
-DOMAIN-SUFFIX,huluspain.com
 DOMAIN-SUFFIX,hulusports.com
 DOMAIN-SUFFIX,hulustream.com
 DOMAIN-SUFFIX,huluteam.com
@@ -371,64 +297,27 @@ DOMAIN-SUFFIX,wwwhuluplus.com
 # =========================================================
 
 DOMAIN-SUFFIX,hbo
-DOMAIN-SUFFIX,beforeigners.com
 DOMAIN-SUFFIX,brightline.tv
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,discomax.com
-DOMAIN-SUFFIX,elpionero.es
 DOMAIN-SUFFIX,forthethrone.com
-DOMAIN-SUFFIX,hbo.ba
-DOMAIN-SUFFIX,hbo.bg
 DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,hbo.cz
-DOMAIN-SUFFIX,hbo.eu
-DOMAIN-SUFFIX,hbo.hr
-DOMAIN-SUFFIX,hbo.hu
-DOMAIN-SUFFIX,hbo.me
-DOMAIN-SUFFIX,hbo.mk
-DOMAIN-SUFFIX,hbo.pl
-DOMAIN-SUFFIX,hbo.ro
-DOMAIN-SUFFIX,hbo.rs
-DOMAIN-SUFFIX,hbo.sk
 DOMAIN-SUFFIX,hboaccess.com
 DOMAIN-SUFFIX,hboarchives.com
-DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hboenterprises.com
-DOMAIN-SUFFIX,hboespana.com
-DOMAIN-SUFFIX,hbo-europe.com
 DOMAIN-SUFFIX,hbogo.com
-DOMAIN-SUFFIX,hbogo.cz
-DOMAIN-SUFFIX,hbogo.eu
-DOMAIN-SUFFIX,hbogo.hu
-DOMAIN-SUFFIX,hbogo.sk
-DOMAIN-SUFFIX,hbogoasia.com
-DOMAIN-SUFFIX,hbogoasia.hk
-DOMAIN-SUFFIX,hbogoasia.id
-DOMAIN-SUFFIX,hbogoasia.my
-DOMAIN-SUFFIX,hbogoasia.ph
-DOMAIN-SUFFIX,hbogoasia.sg
-DOMAIN-SUFFIX,hbogoasia.tw
 DOMAIN-SUFFIX,hboinflight.com
-DOMAIN-SUFFIX,hbolacontent.net
-DOMAIN-SUFFIX,hbolaunchpad.com
 DOMAIN-SUFFIX,hbomailman.com
 DOMAIN-SUFFIX,hbomax.com
-DOMAIN-SUFFIX,hbomax.eu
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbomediarelations.com
-DOMAIN-SUFFIX,hbonordic.com
-DOMAIN-SUFFIX,hbonordic.tv
 DOMAIN-SUFFIX,hbonow.com
-DOMAIN-SUFFIX,hboportugal.com
 DOMAIN-SUFFIX,hboprod.com
-DOMAIN-SUFFIX,hbospain.com
 DOMAIN-SUFFIX,hbotvsales.com
 DOMAIN-SUFFIX,homebox.com
 DOMAIN-SUFFIX,homeboxoffice.com
 DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,maxgo.com
-DOMAIN-SUFFIX,redbyhbo.com
-DOMAIN-SUFFIX,hbogo.co.th
 DOMAIN-SUFFIX,hbomax-images.warnermediacdn.com
 DOMAIN-SUFFIX,hbo.com.edgesuite.net
 DOMAIN-SUFFIX,hbo.map.fastly.net
@@ -442,8 +331,6 @@ DOMAIN-SUFFIX,hbo.com.c.footprint.net
 
 DOMAIN-SUFFIX,peacocktv.com
 
-DOMAIN-KEYWORD,peacock
-
 
 # =========================================================
 # Paramount+
@@ -452,8 +339,6 @@ DOMAIN-KEYWORD,peacock
 DOMAIN-SUFFIX,paramountplus.com
 DOMAIN-SUFFIX,paramount.com
 DOMAIN-SUFFIX,cbs.com
-
-DOMAIN-KEYWORD,paramount
 
 
 # =========================================================
@@ -488,10 +373,7 @@ DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d25xi40x97liuc.cloudfront.net
 DOMAIN,d27xxe7juh1us6.cloudfront.net
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
-DOMAIN,images-eu.ssl-images-amazon.com
 DOMAIN,images-na.ssl-images-amazon.com
-DOMAIN,images-fe.ssl-images-amazon.com
-DOMAIN,msh.amazon.co.uk
 DOMAIN,static.siege-amazon.com
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,amazonprimevideos.com
@@ -504,8 +386,6 @@ DOMAIN-SUFFIX,primevideo.info
 DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.tv
 DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
-DOMAIN-SUFFIX,amazonprimevideo.cn
-DOMAIN-SUFFIX,amazonprimevideo.com.cn
 
 
 # =========================================================
@@ -514,8 +394,6 @@ DOMAIN-SUFFIX,amazonprimevideo.com.cn
 
 DOMAIN-SUFFIX,crunchyroll.com
 DOMAIN-SUFFIX,vrv.co
-
-DOMAIN-KEYWORD,crunchyroll
 
 
 # =========================================================
@@ -530,42 +408,30 @@ DOMAIN-SUFFIX,funimation.com
 # =========================================================
 
 DOMAIN-SUFFIX,pluto.tv
-
-
-# =========================================================
-# Tubi
-# =========================================================
-
-DOMAIN-SUFFIX,tubitv.com
+DOMAIN-SUFFIX,plutotv.net
 
 
 # =========================================================
 # Roku Channel
 # =========================================================
 
-DOMAIN-SUFFIX,therokuchannel.roku.com
+DOMAIN-SUFFIX,fandango.com
+DOMAIN-SUFFIX,mgo.com
+DOMAIN-SUFFIX,mgo-images.com
+DOMAIN-SUFFIX,ravm.tv
 DOMAIN-SUFFIX,roku.com
+DOMAIN-SUFFIX,rokutime.com
 
 
 # =========================================================
 # Sling TV
 # =========================================================
 
+DOMAIN-SUFFIX,dishworld.com
+DOMAIN-SUFFIX,slinginternational.com
 DOMAIN-SUFFIX,sling.com
-
-
-# =========================================================
-# Fubo
-# =========================================================
-
-DOMAIN-SUFFIX,fubo.tv
-
-
-# =========================================================
-# Philo
-# =========================================================
-
-DOMAIN-SUFFIX,philo.com
+DOMAIN-SUFFIX,movenetworks.com
+DOMAIN-SUFFIX,movetv.com
 
 
 # =========================================================
@@ -578,150 +444,240 @@ DOMAIN-SUFFIX,amcnetworks.com
 DOMAIN-SUFFIX,amcplus.com
 DOMAIN-SUFFIX,e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com
 
-
-# =========================================================
-# STARZ
-# =========================================================
-
-DOMAIN-SUFFIX,starz.com
-
-
-# =========================================================
-# MGM+
-# =========================================================
-
-DOMAIN-SUFFIX,mgmplus.com
-DOMAIN-SUFFIX,epix.com
-
-
-# =========================================================
-# PBS
-# =========================================================
-
-DOMAIN-SUFFIX,pbs.org
-
-
 # =========================================================
 # ABC
 # =========================================================
 
+DOMAIN-SUFFIX,abc-studios.com
 DOMAIN-SUFFIX,abc.com
-
-
-# =========================================================
-# NBC
-# =========================================================
-
-DOMAIN-SUFFIX,nbc.com
-DOMAIN-SUFFIX,nbcuniversal.com
+DOMAIN-SUFFIX,edgedatg.com
 
 
 # =========================================================
 # FOX
 # =========================================================
 
-DOMAIN-SUFFIX,fox.com
-DOMAIN-SUFFIX,foxsports.com
+DOMAIN,foxnewsplayer-a.akamaihd.net
+DOMAIN-SUFFIX,fox
+DOMAIN-SUFFIX,foxsoccershop.com
+DOMAIN-SUFFIX,myfoxphoenix.com
+DOMAIN-SUFFIX,foxsports-chicago.com
+DOMAIN-SUFFIX,fox.tv
+DOMAIN-SUFFIX,fox10.tv
+DOMAIN-SUFFIX,fox10news.com
+DOMAIN-SUFFIX,fox10phoenix.com
+DOMAIN-SUFFIX,fox11.com
+DOMAIN-SUFFIX,fox13memphis.com
+DOMAIN-SUFFIX,fox13news.com
+DOMAIN-SUFFIX,fox23.com
+DOMAIN-SUFFIX,fox23maine.com
+DOMAIN-SUFFIX,fox247.com
+DOMAIN-SUFFIX,fox247.tv
+DOMAIN-SUFFIX,fox26.com
+DOMAIN-SUFFIX,fox26houston.com
+DOMAIN-SUFFIX,fox28media.com
+DOMAIN-SUFFIX,fox29.com
+DOMAIN-SUFFIX,fox2detroit.com
+DOMAIN-SUFFIX,fox2news.com
+DOMAIN-SUFFIX,fox32.com
+DOMAIN-SUFFIX,fox32chicago.com
+DOMAIN-SUFFIX,fox35orlando.com
+DOMAIN-SUFFIX,fox38corpuschristi.com
+DOMAIN-SUFFIX,fox42kptm.com
+DOMAIN-SUFFIX,fox46.com
+DOMAIN-SUFFIX,fox46charlotte.com
+DOMAIN-SUFFIX,fox47.com
+DOMAIN-SUFFIX,fox49.tv
+DOMAIN-SUFFIX,fox4news.com
+DOMAIN-SUFFIX,fox51tns.net
+DOMAIN-SUFFIX,fox5atlanta.com
+DOMAIN-SUFFIX,fox5dc.com
+DOMAIN-SUFFIX,fox5ny.com
+DOMAIN-SUFFIX,fox5storm.com
+DOMAIN-SUFFIX,fox6now.com
+DOMAIN-SUFFIX,fox7.com
+DOMAIN-SUFFIX,fox7austin.com
+DOMAIN-SUFFIX,fox9.com
+DOMAIN-SUFFIX,foxacrossamerica.com
+DOMAIN-SUFFIX,foxaffiliateportal.com
+DOMAIN-SUFFIX,foxandfriends.com
+DOMAIN-SUFFIX,foxbet.com
+DOMAIN-SUFFIX,foxbusiness.com
+DOMAIN-SUFFIX,foxbusiness.tv
+DOMAIN-SUFFIX,foxbusinessgo.com
+DOMAIN-SUFFIX,foxcanvasroom.com
+DOMAIN-SUFFIX,foxcareers.com
+DOMAIN-SUFFIX,foxcharlotte.com
+DOMAIN-SUFFIX,foxcincy.com
+DOMAIN-SUFFIX,foxcincy.jobs
+DOMAIN-SUFFIX,foxcincy.net
+DOMAIN-SUFFIX,foxcollegesports.com
+DOMAIN-SUFFIX,foxcorporation.com
+DOMAIN-SUFFIX,foxcreativeuniversity.com
+DOMAIN-SUFFIX,foxcredit.com
+DOMAIN-SUFFIX,foxcredit.org
+DOMAIN-SUFFIX,foxd.tv
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,foxdeportes.com
+DOMAIN-SUFFIX,foxdeportes.net
+DOMAIN-SUFFIX,foxdeportes.tv
+DOMAIN-SUFFIX,foxdigitalmovies.com
+DOMAIN-SUFFIX,foxdoua.com
+DOMAIN-SUFFIX,foxentertainment.com
+DOMAIN-SUFFIX,foxest.com
+DOMAIN-SUFFIX,foxfaq.com
+DOMAIN-SUFFIX,foxfdm.com
+DOMAIN-SUFFIX,foxfiles.com
+DOMAIN-SUFFIX,foxinc.com
+DOMAIN-SUFFIX,foxkansas.com
+DOMAIN-SUFFIX,foxla.com
+DOMAIN-SUFFIX,foxla.tv
+DOMAIN-SUFFIX,foxlexington.com
+DOMAIN-SUFFIX,foxmediacloud.com
+DOMAIN-SUFFIX,foxnation.com
+DOMAIN-SUFFIX,foxnebraska.com
+DOMAIN-SUFFIX,foxneo.com
+DOMAIN-SUFFIX,foxneodigital.com
+DOMAIN-SUFFIX,foxnetworks.info
+DOMAIN-SUFFIX,foxnetworksinfo.com
+DOMAIN-SUFFIX,foxnews.cc
 DOMAIN-SUFFIX,foxnews.com
-
-
-# =========================================================
-# CBS
-# =========================================================
-
-DOMAIN-SUFFIX,cbs.com
-
-
-# =========================================================
-# ESPN
-# =========================================================
-
-DOMAIN-SUFFIX,espn.com
-DOMAIN-SUFFIX,espncdn.com
-
-
-# =========================================================
-# NFL
-# =========================================================
-
-DOMAIN-SUFFIX,nfl.com
-
-
-# =========================================================
-# NHL
-# =========================================================
-
-DOMAIN-SUFFIX,nhl.com
-
-
-# =========================================================
-# MLB
-# =========================================================
-
-DOMAIN-SUFFIX,mlb.com
-
-
-# =========================================================
-# MLS
-# =========================================================
-
-DOMAIN-SUFFIX,mlssoccer.com
-
-
-# =========================================================
-# DAZN
-# =========================================================
-
-DOMAIN-SUFFIX,dazn.com
-DOMAIN-SUFFIX,dazn-api.com
-
-DOMAIN-KEYWORD,dazn
-
-
-# =========================================================
-# WWE
-# =========================================================
-
-DOMAIN-SUFFIX,wwe.com
-
-
-# =========================================================
-# UFC
-# =========================================================
-
-DOMAIN-SUFFIX,ufc.com
-
-
-# =========================================================
-# Criterion Channel
-# =========================================================
-
-DOMAIN-SUFFIX,criterionchannel.com
-
-
-# =========================================================
-# MUBI
-# =========================================================
-
-DOMAIN-SUFFIX,mubi.com
-
-
-# =========================================================
-# Kanopy
-# =========================================================
-
-DOMAIN-SUFFIX,kanopy.com
-
-
-# =========================================================
-# Plex
-# =========================================================
-
-DOMAIN-SUFFIX,plex.tv
-
-
-# =========================================================
-# Kodi
-# =========================================================
-
-DOMAIN-SUFFIX,kodi.tv
+DOMAIN-SUFFIX,foxnews.net
+DOMAIN-SUFFIX,foxnews.org
+DOMAIN-SUFFIX,foxnews.tv
+DOMAIN-SUFFIX,foxnewsaffiliates.com
+DOMAIN-SUFFIX,foxnewsaroundtheworld.com
+DOMAIN-SUFFIX,foxnewsb2b.com
+DOMAIN-SUFFIX,foxnewschannel.com
+DOMAIN-SUFFIX,foxnewsgo.net
+DOMAIN-SUFFIX,foxnewsgo.org
+DOMAIN-SUFFIX,foxnewsgo.tv
+DOMAIN-SUFFIX,foxnewshealth.com
+DOMAIN-SUFFIX,foxsports-world.com
+DOMAIN-SUFFIX,foxnewsmagazine.com
+DOMAIN-SUFFIX,foxnewsnetwork.com
+DOMAIN-SUFFIX,foxnewsopinion.com
+DOMAIN-SUFFIX,foxnewspodcasts.com
+DOMAIN-SUFFIX,foxnewspolitics.com
+DOMAIN-SUFFIX,foxnewsradio.com
+DOMAIN-SUFFIX,foxnewsrundown.com
+DOMAIN-SUFFIX,foxnewssunday.com
+DOMAIN-SUFFIX,foxon.com
+DOMAIN-SUFFIX,foxphiladelphia.com
+DOMAIN-SUFFIX,foxplus.com
+DOMAIN-SUFFIX,foxpoker.com
+DOMAIN-SUFFIX,foxrad.io
+DOMAIN-SUFFIX,foxredeem.com
+DOMAIN-SUFFIX,foxrelease.com
+DOMAIN-SUFFIX,foxrichmond.com
+DOMAIN-SUFFIX,foxrobots.com
+DOMAIN-SUFFIX,foxsmallbusinesscenter.com
+DOMAIN-SUFFIX,foxsmallbusinesscenter.net
+DOMAIN-SUFFIX,foxsmallbusinesscenter.org
+DOMAIN-SUFFIX,foxsoccer.net
+DOMAIN-SUFFIX,foxsoccer.tv
+DOMAIN-SUFFIX,foxsoccermatchpass.com
+DOMAIN-SUFFIX,foxsoccerplus.com
+DOMAIN-SUFFIX,foxsoccerplus.net
+DOMAIN-SUFFIX,foxsoccerplus.tv
+DOMAIN-SUFFIX,fox-corporation.com
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,fox-news.com
+DOMAIN-SUFFIX,foxnewslatino.com
+DOMAIN-SUFFIX,foxsports.info
+DOMAIN-SUFFIX,foxsports.net
+DOMAIN-SUFFIX,tubitv.com
+DOMAIN-SUFFIX,tubi.video
+DOMAIN-SUFFIX,tubi.tv
+DOMAIN-SUFFIX,tubi.io
+DOMAIN-SUFFIX,wogx.com
+DOMAIN-SUFFIX,woflthenewsstation.com
+DOMAIN-SUFFIX,wofl.tv
+DOMAIN-SUFFIX,whosthehost.com
+DOMAIN-SUFFIX,whatthefox.com
+DOMAIN-SUFFIX,thegeorgiascene.com
+DOMAIN-SUFFIX,thefoxnation.com
+DOMAIN-SUFFIX,theclasshroom.com
+DOMAIN-SUFFIX,foxsports2.com
+DOMAIN-SUFFIX,foxsportsflorida.com
+DOMAIN-SUFFIX,foxsportsgo.com
+DOMAIN-SUFFIX,foxsportsnetmilwaukee.com
+DOMAIN-SUFFIX,foxsportsneworleans.com
+DOMAIN-SUFFIX,foxsportsracing.com
+DOMAIN-SUFFIX,foxsportssupports.com
+DOMAIN-SUFFIX,foxsportsuniversity.com
+DOMAIN-SUFFIX,foxsportsworld.com
+DOMAIN-SUFFIX,foxstudiolot.com
+DOMAIN-SUFFIX,foxsuper6.com
+DOMAIN-SUFFIX,testonfox.com
+DOMAIN-SUFFIX,teenchoice.com
+DOMAIN-SUFFIX,foxtelevisionstations.com
+DOMAIN-SUFFIX,foxtv.com
+DOMAIN-SUFFIX,foxtvdvd.com
+DOMAIN-SUFFIX,foxuv.com
+DOMAIN-SUFFIX,foxweatherwatch.com
+DOMAIN-SUFFIX,fssta.com
+DOMAIN-SUFFIX,fxn.ws
+DOMAIN-SUFFIX,fxnetwork.com
+DOMAIN-SUFFIX,fxnetworks.com
+DOMAIN-SUFFIX,bentobox.tv
+DOMAIN-SUFFIX,kicu.tv
+DOMAIN-SUFFIX,ktvu.com
+DOMAIN-SUFFIX,myfoxsanfran.com
+DOMAIN-SUFFIX,afewmomentswith.com
+DOMAIN-SUFFIX,anidom.com
+DOMAIN-SUFFIX,casoneexchange.com
+DOMAIN-SUFFIX,coronavirusnow.com
+DOMAIN-SUFFIX,fse.tv
+DOMAIN-SUFFIX,geraldoatlarge.com
+DOMAIN-SUFFIX,gooddaychicago.com
+DOMAIN-SUFFIX,joeswall.com
+DOMAIN-SUFFIX,kilmeadeandfriends.com
+DOMAIN-SUFFIX,maskedsingerfox.com
+DOMAIN-SUFFIX,my13la.com
+DOMAIN-SUFFIX,my20dc.com
+DOMAIN-SUFFIX,my20houston.com
+DOMAIN-SUFFIX,my29tv.com
+DOMAIN-SUFFIX,my45.com
+DOMAIN-SUFFIX,my9nj.com
+DOMAIN-SUFFIX,myfoxatlanta.com
+DOMAIN-SUFFIX,myfoxaustin.com
+DOMAIN-SUFFIX,myfoxboston.com
+DOMAIN-SUFFIX,myfoxcharlotte.com
+DOMAIN-SUFFIX,myfoxchicago.com
+DOMAIN-SUFFIX,myfoxdc.com
+DOMAIN-SUFFIX,myfoxdetroit.com
+DOMAIN-SUFFIX,myfoxdfw.com
+DOMAIN-SUFFIX,myfoxhouston.com
+DOMAIN-SUFFIX,myfoxhurricane.com
+DOMAIN-SUFFIX,myfoxla.com
+DOMAIN-SUFFIX,myfoxlosangeles.com
+DOMAIN-SUFFIX,myfoxlubbock.com
+DOMAIN-SUFFIX,myfoxmaine.com
+DOMAIN-SUFFIX,myfoxny.com
+DOMAIN-SUFFIX,myfoxorlando.com
+DOMAIN-SUFFIX,myfoxphilly.com
+DOMAIN-SUFFIX,foxsports-newyork.com
+DOMAIN-SUFFIX,myfoxtampa.com
+DOMAIN-SUFFIX,myfoxtampabay.com
+DOMAIN-SUFFIX,myfoxtwincities.com
+DOMAIN-SUFFIX,myfoxzone.com
+DOMAIN-SUFFIX,myq2.com
+DOMAIN-SUFFIX,newsnowfox.com
+DOMAIN-SUFFIX,orlandohurricane.com
+DOMAIN-SUFFIX,paradisehotelquizfox.com
+DOMAIN-SUFFIX,q13.com
+DOMAIN-SUFFIX,q13fox.com
+DOMAIN-SUFFIX,realamericanstories.com
+DOMAIN-SUFFIX,realamericanstories.info
+DOMAIN-SUFFIX,realamericanstories.net
+DOMAIN-SUFFIX,realamericanstories.org
+DOMAIN-SUFFIX,realamericanstories.tv
+DOMAIN-SUFFIX,realmilwaukeenow.com
+DOMAIN-SUFFIX,rprimelab.com
+DOMAIN-SUFFIX,shopspeedtv.com
+DOMAIN-SUFFIX,soccermatchpass.com
+DOMAIN-SUFFIX,speeddreamride.com
+DOMAIN-SUFFIX,speedfantasybid.com
+DOMAIN-SUFFIX,speedracegear.com
+DOMAIN-SUFFIX,speedxtra.com

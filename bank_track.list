@@ -1,30 +1,32 @@
 # =========================================
-# 🏦 银行系自有上报与追踪域名
+# 🏦 银行系自有上报与追踪域名 (优化版)
 # =========================================
-# > 农业银行 (ABC)
+# > 农业银行 (ABC) - abchina.com / abchina.com.cn
 DOMAIN,msmp.abchina.com.cn
-DOMAIN-KEYWORD,msm.abchina
+DOMAIN-SUFFIX,msm.abchina.com.cn
+DOMAIN-SUFFIX,msm.abchina.com
 
-# > 工商银行 (ICBC)
-DOMAIN-KEYWORD,behavior.icbc
-DOMAIN-KEYWORD,track.icbc
-DOMAIN-KEYWORD,mobilelog.icbc
+# > 工商银行 (ICBC) - icbc.com.cn
+DOMAIN-SUFFIX,behavior.icbc.com.cn
+DOMAIN-SUFFIX,track.icbc.com.cn
+DOMAIN-SUFFIX,mobilelog.icbc.com.cn
 
-# > 建设银行 & 中国银行
-DOMAIN-KEYWORD,log.ccb
-DOMAIN-KEYWORD,apm.ccb
-DOMAIN-KEYWORD,log.boc
+# > 建设银行 (CCB) - ccb.com & 中国银行 (BOC) - boc.cn
+DOMAIN-SUFFIX,log.ccb.com
+DOMAIN-SUFFIX,apm.ccb.com
+DOMAIN-SUFFIX,log.boc.cn
 
-# > 招商银行 (CMB)
-DOMAIN-KEYWORD,track.cmbchina
-DOMAIN-KEYWORD,behavior.cmbchina
+# > 招商银行 (CMB) - cmbchina.com
+DOMAIN-SUFFIX,track.cmbchina.com
+DOMAIN-SUFFIX,behavior.cmbchina.com
 DOMAIN-SUFFIX,t.cmbchina.com
 
-# > 中国平安 / 平安银行
-DOMAIN-KEYWORD,log.pingan
+# > 中国平安 / 平安银行 - pingan.com / pingan.com.cn
+DOMAIN-SUFFIX,log.pingan.com
+DOMAIN-SUFFIX,log.pingan.com.cn
 DOMAIN-SUFFIX,omni.pingan.com.cn
 
-# > 云闪付 (UnionPay)
+# > 云闪付 (UnionPay) - 95516.com
 DOMAIN-SUFFIX,analytics.95516.com
 DOMAIN-SUFFIX,track.95516.com
 
@@ -32,30 +34,27 @@ DOMAIN-SUFFIX,track.95516.com
 # 🏢 其他大型国企 (运营商、电网、交管)
 # =========================================
 # > 三大运营商 (移动/电信/联通)
-DOMAIN-KEYWORD,log.10086.cn
-DOMAIN-KEYWORD,track.189.cn
-DOMAIN-KEYWORD,log.10010.com
+DOMAIN-SUFFIX,log.10086.cn
+DOMAIN-SUFFIX,track.189.cn
+DOMAIN-SUFFIX,log.10010.com
 
-# > 国家电网 (网上国网) 等其他服务
-DOMAIN-KEYWORD,apm.sgcc
-DOMAIN-KEYWORD,log.sgcc
-DOMAIN-KEYWORD,track.12123
+# > 国家电网 (网上国网) - sgcc.com.cn
+DOMAIN-SUFFIX,apm.sgcc.com.cn
+DOMAIN-SUFFIX,log.sgcc.com.cn
+
+# > 交管 12123 - 核心接口多位于 122.gov.cn
+DOMAIN-SUFFIX,track.122.gov.cn
+DOMAIN-SUFFIX,track.12123.cn
 
 # =========================================
 # 🕵️ 银行/国企御用第三方监控与分析 SDK (重灾区)
 # =========================================
-# > 听云 (Tingyun) - 国内银行最爱用的 App 性能及崩溃监控
+# (第三方 SDK 此前已经是 DOMAIN-SUFFIX，保持原样即可，非常高效)
 DOMAIN-SUFFIX,tingyun.com
 DOMAIN-SUFFIX,networkbench.com
-
-# > 神策数据 (Sensors Data) - 深度用户行为分析
 DOMAIN-SUFFIX,sensorsdata.cn
-
-# > TalkingData - 大数据分析与用户画像
 DOMAIN-SUFFIX,talkingdata.com
 DOMAIN-SUFFIX,tendcloud.com
-
-# > 友盟 (Umeng) / 极光 (Jiguang) - 常规统计与推送追踪
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,cnzz.com

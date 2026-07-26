@@ -1,12 +1,36 @@
 # =========================
-# Crypto Exchanges
+# Crypto Exchanges (Global & Regional)
 # =========================
+# > Binance & Regional
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,binance.fr
+DOMAIN-SUFFIX,binance.it
+DOMAIN-SUFFIX,binance.es
+DOMAIN-SUFFIX,binance.de
+DOMAIN-SUFFIX,binance.pl
+DOMAIN-SUFFIX,binance.be
+DOMAIN-SUFFIX,binance.co.uk
+
+# > Bybit & Regional
 DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.eu
+DOMAIN-SUFFIX,bybit.nl
+
+# > Coinbase & Regional
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coinbasewallet.com
+DOMAIN-SUFFIX,coinbase.de
+DOMAIN-SUFFIX,coinbase.co.uk
+
+# > Kraken & Regional
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kraken.eu
+
+# > Other Global Exchanges
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,gate.io
@@ -14,10 +38,7 @@ DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bingx.com
-DOMAIN-SUFFIX,coinbase.com
-DOMAIN-SUFFIX,coinbasewallet.com
 DOMAIN-SUFFIX,crypto.com
-DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bitstamp.net
@@ -38,6 +59,38 @@ DOMAIN-SUFFIX,bitrue.com
 DOMAIN-SUFFIX,poloniex.com
 
 # =========================
+# European Native Exchanges & Brokers
+# =========================
+DOMAIN-SUFFIX,bitpanda.com
+DOMAIN-SUFFIX,bitvavo.com
+DOMAIN-SUFFIX,zondacrypto.com
+DOMAIN-SUFFIX,zondacrypto.exchange
+DOMAIN-SUFFIX,swissborg.com
+DOMAIN-SUFFIX,nexo.com
+DOMAIN-SUFFIX,nexo.io
+DOMAIN-SUFFIX,coinhouse.com
+DOMAIN-SUFFIX,bisonapp.com
+DOMAIN-SUFFIX,youngplatform.com
+DOMAIN-SUFFIX,kriptomat.io
+DOMAIN-SUFFIX,coinmetro.com
+DOMAIN-SUFFIX,finst.com
+DOMAIN-SUFFIX,anycoindirect.eu
+DOMAIN-SUFFIX,btcdirect.eu
+
+# =========================
+# Fiat On-Ramps & Neo-Banks (Heavy in EU)
+# =========================
+DOMAIN-SUFFIX,moonpay.com
+DOMAIN-SUFFIX,ramp.network
+DOMAIN-SUFFIX,transak.com
+DOMAIN-SUFFIX,banxa.com
+DOMAIN-SUFFIX,mercuryo.io
+DOMAIN-SUFFIX,simplex.com
+DOMAIN-SUFFIX,paybis.com
+DOMAIN-SUFFIX,revolut.com
+DOMAIN-SUFFIX,traderepublic.com
+
+# =========================
 # Wallet
 # =========================
 DOMAIN-SUFFIX,metamask.io
@@ -56,10 +109,12 @@ DOMAIN-SUFFIX,tokenpocket.pro
 DOMAIN-SUFFIX,rabby.io
 DOMAIN-SUFFIX,argent.xyz
 DOMAIN-SUFFIX,exodus.com
-DOMAIN-SUFFIX,zerion.io
 DOMAIN-SUFFIX,xdefi.io
 DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,mathwallet.org
+DOMAIN-SUFFIX,safe.global
+DOMAIN-SUFFIX,bitbox.swiss
+DOMAIN-SUFFIX,zengo.com
 
 # =========================
 # WalletConnect
