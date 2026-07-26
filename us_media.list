@@ -453,6 +453,13 @@ DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,edgedatg.com
 
 
+# flex
+
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plexapp.com
+DOMAIN-SUFFIX,plexinc.com
+
+
 # =========================================================
 # FOX
 # =========================================================
