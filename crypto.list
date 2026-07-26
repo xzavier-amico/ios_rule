@@ -1,0 +1,264 @@
+# =========================
+# Crypto Exchanges
+# =========================
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bingx.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coinbasewallet.com
+DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,phemex.com
+DOMAIN-SUFFIX,weex.com
+DOMAIN-SUFFIX,lbank.com
+DOMAIN-SUFFIX,xt.com
+DOMAIN-SUFFIX,coinw.com
+DOMAIN-SUFFIX,toobit.com
+DOMAIN-SUFFIX,blofin.com
+DOMAIN-SUFFIX,bitmart.com
+DOMAIN-SUFFIX,digifinex.com
+DOMAIN-SUFFIX,whitebit.com
+DOMAIN-SUFFIX,ascendex.com
+DOMAIN-SUFFIX,bitrue.com
+DOMAIN-SUFFIX,poloniex.com
+
+# =========================
+# Wallet
+# =========================
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,consensys.net
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,rainbow.me
+DOMAIN-SUFFIX,zerion.io
+DOMAIN-SUFFIX,phantom.app
+DOMAIN-SUFFIX,backpack.app
+DOMAIN-SUFFIX,keplr.app
+DOMAIN-SUFFIX,ledger.com
+DOMAIN-SUFFIX,trezor.io
+DOMAIN-SUFFIX,safepal.com
+DOMAIN-SUFFIX,imtoken.com
+DOMAIN-SUFFIX,tokenpocket.pro
+DOMAIN-SUFFIX,rabby.io
+DOMAIN-SUFFIX,argent.xyz
+DOMAIN-SUFFIX,exodus.com
+DOMAIN-SUFFIX,zerion.io
+DOMAIN-SUFFIX,xdefi.io
+DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,mathwallet.org
+
+# =========================
+# WalletConnect
+# =========================
+DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,reown.com
+
+# =========================
+# RPC / Infrastructure
+# =========================
+DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,alchemy.com
+DOMAIN-SUFFIX,alchemyapi.io
+DOMAIN-SUFFIX,quicknode.com
+DOMAIN-SUFFIX,ankr.com
+DOMAIN-SUFFIX,chainbase.com
+DOMAIN-SUFFIX,tenderly.co
+DOMAIN-SUFFIX,getblock.io
+DOMAIN-SUFFIX,moralis.io
+DOMAIN-SUFFIX,nodies.app
+DOMAIN-SUFFIX,drpc.org
+DOMAIN-SUFFIX,lavanet.xyz
+
+# =========================
+# Ethereum Ecosystem
+# =========================
+DOMAIN-SUFFIX,ethereum.org
+DOMAIN-SUFFIX,ens.domains
+DOMAIN-SUFFIX,eigenlayer.xyz
+DOMAIN-SUFFIX,lido.fi
+DOMAIN-SUFFIX,rocketpool.net
+DOMAIN-SUFFIX,ether.fi
+DOMAIN-SUFFIX,renzoprotocol.com
+
+# =========================
+# Solana Ecosystem
+# =========================
+DOMAIN-SUFFIX,solana.com
+DOMAIN-SUFFIX,solana.org
+DOMAIN-SUFFIX,solscan.io
+DOMAIN-SUFFIX,explorer.solana.com
+DOMAIN-SUFFIX,jup.ag
+DOMAIN-SUFFIX,raydium.io
+DOMAIN-SUFFIX,orca.so
+DOMAIN-SUFFIX,tensor.trade
+DOMAIN-SUFFIX,magiceden.io
+DOMAIN-SUFFIX,drift.trade
+DOMAIN-SUFFIX,marginfi.com
+DOMAIN-SUFFIX,kamino.finance
+DOMAIN-SUFFIX,meteora.ag
+
+# =========================
+# TON Ecosystem
+# =========================
+DOMAIN-SUFFIX,ton.org
+DOMAIN-SUFFIX,tonkeeper.com
+DOMAIN-SUFFIX,getgems.io
+DOMAIN-SUFFIX,ston.fi
+DOMAIN-SUFFIX,dedust.io
+
+# =========================
+# Sui Ecosystem
+# =========================
+DOMAIN-SUFFIX,sui.io
+DOMAIN-SUFFIX,suiexplorer.com
+DOMAIN-SUFFIX,cetus.zone
+DOMAIN-SUFFIX,turbos.finance
+DOMAIN-SUFFIX,scallop.io
+
+# =========================
+# Aptos Ecosystem
+# =========================
+DOMAIN-SUFFIX,aptoslabs.com
+DOMAIN-SUFFIX,aptosfoundation.org
+DOMAIN-SUFFIX,pontem.network
+DOMAIN-SUFFIX,liquidswap.com
+DOMAIN-SUFFIX,thala.fi
+
+# =========================
+# DEX
+# =========================
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,pancakeswap.finance
+DOMAIN-SUFFIX,sushi.com
+DOMAIN-SUFFIX,curve.fi
+DOMAIN-SUFFIX,balancer.fi
+DOMAIN-SUFFIX,dydx.exchange
+DOMAIN-SUFFIX,1inch.io
+DOMAIN-SUFFIX,matcha.xyz
+DOMAIN-SUFFIX,paraswap.io
+DOMAIN-SUFFIX,camelot.exchange
+DOMAIN-SUFFIX,syncswap.xyz
+DOMAIN-SUFFIX,aerodrome.finance
+DOMAIN-SUFFIX,velodrome.finance
+
+# =========================
+# Bridge
+# =========================
+DOMAIN-SUFFIX,layerzero.network
+DOMAIN-SUFFIX,stargate.finance
+DOMAIN-SUFFIX,wormhole.com
+DOMAIN-SUFFIX,portalbridge.com
+DOMAIN-SUFFIX,orbiter.finance
+DOMAIN-SUFFIX,synapseprotocol.com
+DOMAIN-SUFFIX,rhino.fi
+DOMAIN-SUFFIX,debridge.finance
+DOMAIN-SUFFIX,hop.exchange
+DOMAIN-SUFFIX,across.to
+
+# =========================
+# Lending / LSD
+# =========================
+DOMAIN-SUFFIX,aave.com
+DOMAIN-SUFFIX,compound.finance
+DOMAIN-SUFFIX,makerdao.com
+DOMAIN-SUFFIX,spark.fi
+DOMAIN-SUFFIX,morpho.org
+DOMAIN-SUFFIX,pendle.finance
+DOMAIN-SUFFIX,ethena.fi
+DOMAIN-SUFFIX,frax.finance
+DOMAIN-SUFFIX,convexfinance.com
+
+# =========================
+# NFT
+# =========================
+DOMAIN-SUFFIX,opensea.io
+DOMAIN-SUFFIX,blur.io
+DOMAIN-SUFFIX,looksrare.org
+DOMAIN-SUFFIX,x2y2.io
+DOMAIN-SUFFIX,rarible.com
+DOMAIN-SUFFIX,element.market
+
+# =========================
+# Explorer
+# =========================
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,arbiscan.io
+DOMAIN-SUFFIX,basescan.org
+DOMAIN-SUFFIX,optimistic.etherscan.io
+DOMAIN-SUFFIX,snowtrace.io
+DOMAIN-SUFFIX,polygonscan.com
+DOMAIN-SUFFIX,ftmscan.com
+DOMAIN-SUFFIX,tronscan.org
+DOMAIN-SUFFIX,mintscan.io
+DOMAIN-SUFFIX,celoscan.io
+
+# =========================
+# Analytics
+# =========================
+DOMAIN-SUFFIX,defillama.com
+DOMAIN-SUFFIX,dune.com
+DOMAIN-SUFFIX,nansen.ai
+DOMAIN-SUFFIX,arkhamintelligence.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,cryptorank.io
+DOMAIN-SUFFIX,messari.io
+DOMAIN-SUFFIX,tokenterminal.com
+DOMAIN-SUFFIX,glassnode.com
+DOMAIN-SUFFIX,santiment.net
+
+# =========================
+# Launchpad / Quest
+# =========================
+DOMAIN-SUFFIX,galxe.com
+DOMAIN-SUFFIX,zealy.io
+DOMAIN-SUFFIX,layer3.xyz
+DOMAIN-SUFFIX,guild.xyz
+DOMAIN-SUFFIX,questn.com
+DOMAIN-SUFFIX,coinlist.co
+DOMAIN-SUFFIX,echo.xyz
+
+# =========================
+# Governance
+# =========================
+DOMAIN-SUFFIX,snapshot.org
+DOMAIN-SUFFIX,tally.xyz
+DOMAIN-SUFFIX,boardroom.info
+
+# =========================
+# Domain
+# =========================
+DOMAIN-SUFFIX,unstoppabledomains.com
+DOMAIN-SUFFIX,space.id
+DOMAIN-SUFFIX,basenames.org
+
+# =========================
+# Farcaster / SocialFi
+# =========================
+DOMAIN-SUFFIX,farcaster.xyz
+DOMAIN-SUFFIX,warpcast.com
+DOMAIN-SUFFIX,lens.xyz
+
+# =========================
+# AI Crypto
+# =========================
+DOMAIN-SUFFIX,kaito.ai
+DOMAIN-SUFFIX,virtuals.io
+DOMAIN-SUFFIX,elizaos.ai
+DOMAIN-SUFFIX,cookie.fun
