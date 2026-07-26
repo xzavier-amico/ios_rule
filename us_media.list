@@ -12,49 +12,428 @@
 # Netflix
 # =========================================================
 
+DOMAIN,netflix.com.edgesuite.net
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,netflixinvestor.com
+DOMAIN-SUFFIX,netflixtechblog.com
 DOMAIN-SUFFIX,nflxext.com
-DOMAIN-SUFFIX,nflximg.net
-DOMAIN-SUFFIX,nflxvideo.net
-DOMAIN-SUFFIX,nflxso.net
-DOMAIN-SUFFIX,nflxsearch.net
 DOMAIN-SUFFIX,nflximg.com
-
-DOMAIN-KEYWORD,netflix
-
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxsearch.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,netflixdnstest0.com
+DOMAIN-SUFFIX,netflixdnstest1.com
+DOMAIN-SUFFIX,netflixdnstest2.com
+DOMAIN-SUFFIX,netflixdnstest3.com
+DOMAIN-SUFFIX,netflixdnstest4.com
+DOMAIN-SUFFIX,netflixdnstest5.com
+DOMAIN-SUFFIX,netflixdnstest6.com
+DOMAIN-SUFFIX,netflixdnstest7.com
+DOMAIN-SUFFIX,netflixdnstest8.com
+DOMAIN-SUFFIX,netflixdnstest9.com
+DOMAIN-SUFFIX,netflixdnstest10.com
+DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
+DOMAIN-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
+DOMAIN-REGEX,(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
+DOMAIN-REGEX,(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
+IP-CIDR,23.246.0.0/18
+IP-CIDR,37.77.184.0/21
+IP-CIDR,45.57.0.0/17
+IP-CIDR,64.120.128.0/17
+IP-CIDR,66.197.132.0/22
+IP-CIDR,66.197.136.0/21
+IP-CIDR,66.197.147.0/24
+IP-CIDR,66.197.148.0/22
+IP-CIDR,66.197.154.0/23
+IP-CIDR,66.197.156.0/22
+IP-CIDR,66.197.160.0/20
+IP-CIDR,66.197.182.0/23
+IP-CIDR,66.197.186.0/23
+IP-CIDR,66.197.188.0/22
+IP-CIDR,66.197.192.0/18
+IP-CIDR,69.53.224.0/20
+IP-CIDR,69.53.240.0/21
+IP-CIDR,69.53.248.0/23
+IP-CIDR,69.53.250.0/24
+IP-CIDR,69.53.252.0/22
+IP-CIDR,108.175.32.0/20
+IP-CIDR,185.2.220.0/22
+IP-CIDR,185.9.188.0/22
+IP-CIDR,192.173.64.0/18
+IP-CIDR,198.38.96.0/19
+IP-CIDR,198.45.48.0/20
+IP-CIDR,207.45.72.0/22
+IP-CIDR,208.75.76.0/22
+IP-CIDR,2607:fb10::/32
+IP-CIDR,2620:10c:7000::/44
+IP-CIDR,2a00:86c0::/38
+IP-CIDR,2a00:86c0:404::/46
+IP-CIDR,2a00:86c0:408::/45
+IP-CIDR,2a00:86c0:410::/44
+IP-CIDR,2a00:86c0:422::/47
+IP-CIDR,2a00:86c0:424::/46
+IP-CIDR,2a00:86c0:428::/45
+IP-CIDR,2a00:86c0:430::/44
+IP-CIDR,2a00:86c0:443::/48
+IP-CIDR,2a00:86c0:444::/46
+IP-CIDR,2a00:86c0:448::/45
+IP-CIDR,2a00:86c0:450::/44
+IP-CIDR,2a00:86c0:460::/43
+IP-CIDR,2a00:86c0:480::/41
+IP-CIDR,2a00:86c0:500::/40
+IP-CIDR,2a00:86c0:600::/39
+IP-CIDR,2a00:86c0:800::/37
+IP-CIDR,2a00:86c0:1000::/36
+IP-CIDR,2a00:86c0:2000::/35
+IP-CIDR,2a00:86c0:4000::/34
+IP-CIDR,2a00:86c0:8000::/33
+IP-CIDR,2a03:5640:1000::/36
+IP-CIDR,2a03:5640:2000::/35
+IP-CIDR,2a03:5640:4000::/34
+IP-CIDR,2a03:5640:8000::/34
+IP-CIDR,2a03:5640:c000::/35
+IP-CIDR,2a03:5640:e000::/36
+IP-CIDR,2a03:5640:f041::/48
+IP-CIDR,2a03:5640:f043::/48
+IP-CIDR,2a03:5640:f044::/48
+IP-CIDR,2a03:5640:f04b::/48
+IP-CIDR,2a03:5640:f050::/48
+IP-CIDR,2a03:5640:f055::/48
+IP-CIDR,2a03:5640:f056::/47
+IP-CIDR,2a03:5640:f058::/45
+IP-CIDR,2a03:5640:f060::/43
+IP-CIDR,2a03:5640:f080::/41
+IP-CIDR,2a03:5640:f140::/47
+IP-CIDR,2a03:5640:f142::/48
+IP-CIDR,2a03:5640:f152::/47
+IP-CIDR,2a03:5640:f154::/46
+IP-CIDR,2a03:5640:f158::/45
+IP-CIDR,2a03:5640:f160::/43
+IP-CIDR,2a03:5640:f180::/41
+IP-CIDR,2a03:5640:f233::/48
+IP-CIDR,2a03:5640:f234::/48
+IP-CIDR,2a03:5640:f236::/48
+IP-CIDR,2a03:5640:f238::/45
+IP-CIDR,2a03:5640:f240::/42
+IP-CIDR,2a03:5640:f280::/41
+IP-CIDR,2a03:5640:f300::/47
+IP-CIDR,2a03:5640:f309::/48
+IP-CIDR,2a03:5640:f30a::/47
+IP-CIDR,2a03:5640:f30c::/47
+IP-CIDR,2a03:5640:f310::/44
+IP-CIDR,2a03:5640:f320::/43
+IP-CIDR,2a03:5640:f340::/42
+IP-CIDR,2a03:5640:f380::/41
+IP-CIDR,2a03:5640:f400::/40
+IP-CIDR,2a03:5640:f501::/48
+IP-CIDR,2a03:5640:f506::/48
+IP-CIDR,2a03:5640:f523::/48
+IP-CIDR,2a03:5640:f526::/47
+IP-CIDR,2a03:5640:f528::/45
+IP-CIDR,2a03:5640:f536::/47
+IP-CIDR,2a03:5640:f538::/45
+IP-CIDR,2a03:5640:f540::/43
+IP-CIDR,2a03:5640:f561::/48
+IP-CIDR,2a03:5640:f562::/47
+IP-CIDR,2a03:5640:f564::/46
+IP-CIDR,2a03:5640:f568::/45
+IP-CIDR,2a03:5640:f571::/48
+IP-CIDR,2a03:5640:f572::/47
+IP-CIDR,2a03:5640:f574::/46
+IP-CIDR,2a03:5640:f578::/45
+IP-CIDR,2a03:5640:f580::/41
+IP-CIDR,2a03:5640:f600::/39
+IP-CIDR,2a03:5640:f800::/37
 
 # =========================================================
 # Disney+
 # =========================================================
 
-DOMAIN-SUFFIX,disneyplus.com
-DOMAIN-SUFFIX,disney-plus.net
+DOMAIN,espn.api.edge.bamgrid.com
+DOMAIN,espn.hb.omtrdc.net
+DOMAIN,espndotcom.tt.omtrdc.net
+DOMAIN-SUFFIX,thisispolaris.com
+DOMAIN-SUFFIX,ngeo.com
+DOMAIN-SUFFIX,disneymagicmoments.pl
+DOMAIN-SUFFIX,disney.ca
+DOMAIN-SUFFIX,disney.ch
+DOMAIN-SUFFIX,edgedatg.com
+DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,abc-studios.com
+DOMAIN-SUFFIX,starplus.com
+DOMAIN-SUFFIX,starott.com
+DOMAIN-SUFFIX,disneymagicmomentsme.com
+DOMAIN-SUFFIX,disney.com
+DOMAIN-SUFFIX,nationalgeographicpartners.com
+DOMAIN-SUFFIX,nationalgeographic.com
+DOMAIN-SUFFIX,natgeomaps.com
+DOMAIN-SUFFIX,themarvelexperiencetour.com
+DOMAIN-SUFFIX,disney.cz
+DOMAIN-SUFFIX,disney.de
+DOMAIN-SUFFIX,disney.dk
+DOMAIN-SUFFIX,disney.es
+DOMAIN-SUFFIX,disney.fi
+DOMAIN-SUFFIX,disney.fr
+DOMAIN-SUFFIX,disney.gr
+DOMAIN-SUFFIX,disney.hu
+DOMAIN-SUFFIX,disney.id
+DOMAIN-SUFFIX,disney.in
+DOMAIN-SUFFIX,disney.io
+DOMAIN-SUFFIX,disney.it
+DOMAIN-SUFFIX,disney.my
+DOMAIN-SUFFIX,disney.nl
+DOMAIN-SUFFIX,disney.no
+DOMAIN-SUFFIX,disney.ph
+DOMAIN-SUFFIX,disney.pl
+DOMAIN-SUFFIX,disney.pt
+DOMAIN-SUFFIX,disney.ro
+DOMAIN-SUFFIX,disney.ru
+DOMAIN-SUFFIX,disney.se
+DOMAIN-SUFFIX,disney.sg
+DOMAIN-SUFFIX,marvelsuperwar.com
+DOMAIN-SUFFIX,marvelsuperheroseptember.com
+DOMAIN-SUFFIX,20thcenturystudios.jp
+DOMAIN-SUFFIX,adventuresbydisney.com
+DOMAIN-SUFFIX,babble.com
+DOMAIN-SUFFIX,babyzone.com
 DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,marvelspotlightplays.com
+DOMAIN-SUFFIX,dilcdn.com
+DOMAIN-SUFFIX,disney-asia.com
+DOMAIN-SUFFIX,disney-discount.com
+DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,marvelsdoubleagent.com
+DOMAIN-SUFFIX,disney-studio.com
+DOMAIN-SUFFIX,disney-studio.net
+DOMAIN-SUFFIX,disneyadsales.com
+DOMAIN-SUFFIX,disneyarena.com
+DOMAIN-SUFFIX,disneyaulani.com
+DOMAIN-SUFFIX,disneybaby.com
+DOMAIN-SUFFIX,disneycareers.com
+DOMAIN-SUFFIX,disneychannelonstage.com
+DOMAIN-SUFFIX,disneychannelroadtrip.com
+DOMAIN-SUFFIX,disneycruisebrasil.com
+DOMAIN-SUFFIX,disneyenconcert.com
+DOMAIN-SUFFIX,disneyiejobs.com
+DOMAIN-SUFFIX,disneyinflight.com
+DOMAIN-SUFFIX,disneyinternational.com
+DOMAIN-SUFFIX,disneyinternationalhd.com
+DOMAIN-SUFFIX,disneyjunior.com
+DOMAIN-SUFFIX,disneyjuniortreataday.com
+DOMAIN-SUFFIX,disneylatino.com
+DOMAIN-SUFFIX,marvelpinball.com
+DOMAIN-SUFFIX,marvelparty.net
+DOMAIN-SUFFIX,marveldimensionofheroes.com
+DOMAIN-SUFFIX,disneymagicmoments.de
+DOMAIN-SUFFIX,disneymagicmoments.es
+DOMAIN-SUFFIX,disneymagicmoments.fr
+DOMAIN-SUFFIX,marvel10thanniversary.com
+DOMAIN-SUFFIX,disneymagicmoments.gr
+DOMAIN-SUFFIX,disneymagicmoments.it
+DOMAIN-SUFFIX,disney.bg
+DOMAIN-SUFFIX,disney.be
+DOMAIN-SUFFIX,watchdisneyfe.com
+DOMAIN-SUFFIX,disneymeetingsandevents.com
+DOMAIN-SUFFIX,disneymovieinsiders.com
+DOMAIN-SUFFIX,disneymusicpromotion.com
+DOMAIN-SUFFIX,disneynewseries.com
+DOMAIN-SUFFIX,disneynow.com
+DOMAIN-SUFFIX,disneypeoplesurveys.com
+DOMAIN-SUFFIX,marvel.com
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,hotstarext.com
+DOMAIN-SUFFIX,disneyredirects.com
+DOMAIN-SUFFIX,disneysrivieraresort.com
+DOMAIN-SUFFIX,disneystore.com
 DOMAIN-SUFFIX,disneystreaming.com
-
-DOMAIN-KEYWORD,disneyplus
+DOMAIN-SUFFIX,disneysubscription.com
+DOMAIN-SUFFIX,hotstar-labs.com
+DOMAIN-SUFFIX,hotstar-cdn.net
+DOMAIN-SUFFIX,disneytvajobs.com
+DOMAIN-SUFFIX,disneyworld-go.com
+DOMAIN-SUFFIX,dssott.com
+DOMAIN-SUFFIX,go-disneyworldgo.com
+DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,mickey.tv
+DOMAIN-SUFFIX,moviesanywhere.com
+DOMAIN-SUFFIX,nomadlandmovie.ch
+DOMAIN-SUFFIX,playmation.com
+DOMAIN-SUFFIX,shopdisney.com
+DOMAIN-SUFFIX,shops-disney.com
+DOMAIN-SUFFIX,sorcerersarena.com
+DOMAIN-SUFFIX,spaindisney.com
+DOMAIN-SUFFIX,star-brasil.com
+DOMAIN-SUFFIX,star-latam.com
+DOMAIN-SUFFIX,starwars.com
+DOMAIN-SUFFIX,starwarsgalacticstarcruiser.com
+DOMAIN-SUFFIX,starwarskids.com
+DOMAIN-SUFFIX,streamingdisney.net
+DOMAIN-SUFFIX,thestationbymaker.com
+DOMAIN-SUFFIX,disney.asia
+DOMAIN-SUFFIX,disneyme.com
+DOMAIN-SUFFIX,dmed.technology
+DOMAIN-SUFFIX,dtci.co
+DOMAIN-SUFFIX,dtci.technology
+DOMAIN-SUFFIX,espn.com
+DOMAIN-SUFFIX,espn.net
+DOMAIN-SUFFIX,espncdn.com
+DOMAIN-SUFFIX,espnqa.com
+DOMAIN-SUFFIX,watchespn.com
+DOMAIN-SUFFIX,hotstar.com
+DOMAIN-SUFFIX,disney.co.za
+DOMAIN-SUFFIX,disney.co.uk
+DOMAIN-SUFFIX,disneytickets.co.uk
+DOMAIN-SUFFIX,disney.co.il
+DOMAIN-SUFFIX,disney.com.hk
+DOMAIN-SUFFIX,disneyplus.bn5x.net
+DOMAIN-SUFFIX,disneymagicmoments.gen.tr
+DOMAIN-SUFFIX,disneymagicmoments.co.za
+DOMAIN-SUFFIX,disneymagicmoments.co.uk
+DOMAIN-SUFFIX,disneymagicmoments.co.il
+DOMAIN-SUFFIX,disney.co.jp
+DOMAIN-SUFFIX,beautyandthebeastmusical.co.uk
+DOMAIN-SUFFIX,disneyturkiye.com.tr
+DOMAIN-SUFFIX,disney.co.kr
+DOMAIN-SUFFIX,hsprepack.akamaized.net
+DOMAIN-SUFFIX,20thcenturystudios.com.au
+DOMAIN-SUFFIX,disney.com.br
+DOMAIN-SUFFIX,disney.com.au
+DOMAIN-SUFFIX,disney.com.tw
+DOMAIN-SUFFIX,20thcenturystudios.com.br
+DOMAIN-SUFFIX,disney.co.th
+DOMAIN-SUFFIX,espn.co.uk
+DOMAIN-SUFFIX,disney-portal.my.onetrust.com
+DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
+DOMAIN-REGEX,^hses[1-7]?\.akamaized\.net$
+DOMAIN,disney.my.sentry.io
 
 
 # =========================================================
 # Hulu
 # =========================================================
 
+DOMAIN,hulu.playback.edge.bamgrid.com
+DOMAIN-SUFFIX,112263.com
+DOMAIN-SUFFIX,callhulu.com
+DOMAIN-SUFFIX,findyourlimits.com
+DOMAIN-SUFFIX,freehulu.com
+DOMAIN-SUFFIX,hooloo.tv
+DOMAIN-SUFFIX,hoolu.com
+DOMAIN-SUFFIX,hoolu.tv
+DOMAIN-SUFFIX,hu1u.com
+DOMAIN-SUFFIX,huloo.cc
+DOMAIN-SUFFIX,huloo.tv
 DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,hulu.tv
+DOMAIN-SUFFIX,hulu.us
+DOMAIN-SUFFIX,huluaction.com
+DOMAIN-SUFFIX,huluad.com
+DOMAIN-SUFFIX,huluapp.com
+DOMAIN-SUFFIX,huluasks.com
+DOMAIN-SUFFIX,hulucall.com
+DOMAIN-SUFFIX,hulufree.com
+DOMAIN-SUFFIX,hulugans.com
+DOMAIN-SUFFIX,hulugermany.com
+DOMAIN-SUFFIX,hulugo.com
 DOMAIN-SUFFIX,huluim.com
-
-DOMAIN-KEYWORD,hulu
+DOMAIN-SUFFIX,huluinstantmessenger.com
+DOMAIN-SUFFIX,huluitaly.com
+DOMAIN-SUFFIX,hulunet.com
+DOMAIN-SUFFIX,hulunetwork.com
+DOMAIN-SUFFIX,huluplus.com
+DOMAIN-SUFFIX,hulupremium.com
+DOMAIN-SUFFIX,hulupurchase.com
+DOMAIN-SUFFIX,huluqa.com
+DOMAIN-SUFFIX,hulurussia.com
+DOMAIN-SUFFIX,huluspain.com
+DOMAIN-SUFFIX,hulusports.com
+DOMAIN-SUFFIX,hulustream.com
+DOMAIN-SUFFIX,huluteam.com
+DOMAIN-SUFFIX,hulutv.com
+DOMAIN-SUFFIX,huluusa.com
+DOMAIN-SUFFIX,joinmaidez.com
+DOMAIN-SUFFIX,mushymush.tv
+DOMAIN-SUFFIX,myhulu.com
+DOMAIN-SUFFIX,originalhulu.com
+DOMAIN-SUFFIX,payhulu.com
+DOMAIN-SUFFIX,registerhulu.com
+DOMAIN-SUFFIX,thehulubraintrust.com
+DOMAIN-SUFFIX,wwwhuluplus.com
 
 
 # =========================================================
 # Max (HBO)
 # =========================================================
 
-DOMAIN-SUFFIX,max.com
-DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbo
+DOMAIN-SUFFIX,beforeigners.com
+DOMAIN-SUFFIX,brightline.tv
+DOMAIN-SUFFIX,cinemax.com
+DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,elpionero.es
+DOMAIN-SUFFIX,forthethrone.com
+DOMAIN-SUFFIX,hbo.ba
+DOMAIN-SUFFIX,hbo.bg
 DOMAIN-SUFFIX,hbo.com
-
-DOMAIN-KEYWORD,hbomax
+DOMAIN-SUFFIX,hbo.cz
+DOMAIN-SUFFIX,hbo.eu
+DOMAIN-SUFFIX,hbo.hr
+DOMAIN-SUFFIX,hbo.hu
+DOMAIN-SUFFIX,hbo.me
+DOMAIN-SUFFIX,hbo.mk
+DOMAIN-SUFFIX,hbo.pl
+DOMAIN-SUFFIX,hbo.ro
+DOMAIN-SUFFIX,hbo.rs
+DOMAIN-SUFFIX,hbo.sk
+DOMAIN-SUFFIX,hboaccess.com
+DOMAIN-SUFFIX,hboarchives.com
+DOMAIN-SUFFIX,hboasia.com
+DOMAIN-SUFFIX,hboenterprises.com
+DOMAIN-SUFFIX,hboespana.com
+DOMAIN-SUFFIX,hbo-europe.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbogo.cz
+DOMAIN-SUFFIX,hbogo.eu
+DOMAIN-SUFFIX,hbogo.hu
+DOMAIN-SUFFIX,hbogo.sk
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,hbogoasia.id
+DOMAIN-SUFFIX,hbogoasia.my
+DOMAIN-SUFFIX,hbogoasia.ph
+DOMAIN-SUFFIX,hbogoasia.sg
+DOMAIN-SUFFIX,hbogoasia.tw
+DOMAIN-SUFFIX,hboinflight.com
+DOMAIN-SUFFIX,hbolacontent.net
+DOMAIN-SUFFIX,hbolaunchpad.com
+DOMAIN-SUFFIX,hbomailman.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomax.eu
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,hbomediarelations.com
+DOMAIN-SUFFIX,hbonordic.com
+DOMAIN-SUFFIX,hbonordic.tv
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,hboportugal.com
+DOMAIN-SUFFIX,hboprod.com
+DOMAIN-SUFFIX,hbospain.com
+DOMAIN-SUFFIX,hbotvsales.com
+DOMAIN-SUFFIX,homebox.com
+DOMAIN-SUFFIX,homeboxoffice.com
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,maxgo.com
+DOMAIN-SUFFIX,redbyhbo.com
+DOMAIN-SUFFIX,hbogo.co.th
+DOMAIN-SUFFIX,hbomax-images.warnermediacdn.com
+DOMAIN-SUFFIX,hbo.com.edgesuite.net
+DOMAIN-SUFFIX,hbo.map.fastly.net
+DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
+DOMAIN-SUFFIX,hbo.com.c.footprint.net
 
 
 # =========================================================
@@ -81,30 +460,52 @@ DOMAIN-KEYWORD,paramount
 # Discovery+
 # =========================================================
 
+DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,discoveryplus.com
-DOMAIN-SUFFIX,discovery.com
-
-DOMAIN-KEYWORD,discovery
+DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
 
 
 # =========================================================
 # Apple TV+
 # =========================================================
 
+DOMAIN,apple-tv-plus-press.apple.com
+DOMAIN,hls-amt.itunes.apple.com
+DOMAIN,hls.itunes.apple.com
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN,tv.applemusic.com
+DOMAIN,uts-api.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
-DOMAIN-SUFFIX,apple.com
-
-DOMAIN-KEYWORD,appletv
 
 
 # =========================================================
 # Amazon Prime Video
 # =========================================================
 
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net
+DOMAIN,d22qjgkvxw22r6.cloudfront.net
+DOMAIN,d25xi40x97liuc.cloudfront.net
+DOMAIN,d27xxe7juh1us6.cloudfront.net
+DOMAIN,dmqdd6hw24ucf.cloudfront.net
+DOMAIN,images-eu.ssl-images-amazon.com
+DOMAIN,images-na.ssl-images-amazon.com
+DOMAIN,images-fe.ssl-images-amazon.com
+DOMAIN,msh.amazon.co.uk
+DOMAIN,static.siege-amazon.com
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,amazonprimevideos.com
+DOMAIN-SUFFIX,amazonvideo.cc
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,prime-video.com
+DOMAIN-SUFFIX,primevideo.cc
 DOMAIN-SUFFIX,primevideo.com
-DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
-
-DOMAIN-KEYWORD,primevideo
+DOMAIN-SUFFIX,primevideo.info
+DOMAIN-SUFFIX,primevideo.org
+DOMAIN-SUFFIX,primevideo.tv
+DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
+DOMAIN-SUFFIX,amazonprimevideo.cn
+DOMAIN-SUFFIX,amazonprimevideo.com.cn
 
 
 # =========================================================
@@ -183,7 +584,11 @@ DOMAIN-SUFFIX,philo.com
 # AMC+
 # =========================================================
 
+DOMAIN-SUFFIX,amc.com
+DOMAIN-SUFFIX,amcn.com
+DOMAIN-SUFFIX,amcnetworks.com
 DOMAIN-SUFFIX,amcplus.com
+DOMAIN-SUFFIX,e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com
 
 
 # =========================================================
@@ -245,14 +650,6 @@ DOMAIN-SUFFIX,cbs.com
 
 DOMAIN-SUFFIX,espn.com
 DOMAIN-SUFFIX,espncdn.com
-
-
-# =========================================================
-# NBA
-# =========================================================
-
-DOMAIN-SUFFIX,nba.com
-DOMAIN-SUFFIX,nba.net
 
 
 # =========================================================
