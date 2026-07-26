@@ -509,18 +509,6 @@ DOMAIN-SUFFIX,amazonprimevideo.com.cn
 
 
 # =========================================================
-# Twitch
-# =========================================================
-
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,twitchcdn.net
-DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,ttvnw.net
-
-DOMAIN-KEYWORD,twitch
-
-
-# =========================================================
 # Crunchyroll
 # =========================================================
 
