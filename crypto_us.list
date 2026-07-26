@@ -1,0 +1,25 @@
+# =========================
+# 🇺🇸 Crypto - US Compliant & Fiat (Route to US)
+# =========================
+
+# > US-Friendly / Compliant Exchanges
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coinbasewallet.com
+DOMAIN-SUFFIX,coinbase.de
+DOMAIN-SUFFIX,coinbase.co.uk
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kraken.eu
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,crypto.com
+
+# > Fiat On-Ramps & Neo-Banks
+DOMAIN-SUFFIX,moonpay.com
+DOMAIN-SUFFIX,ramp.network
+DOMAIN-SUFFIX,transak.com
+DOMAIN-SUFFIX,banxa.com
+DOMAIN-SUFFIX,mercuryo.io
+DOMAIN-SUFFIX,simplex.com
+DOMAIN-SUFFIX,paybis.com
+DOMAIN-SUFFIX,revolut.com
+DOMAIN-SUFFIX,traderepublic.com

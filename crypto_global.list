@@ -1,0 +1,64 @@
+# =========================
+# ⚠️ Crypto - Global CEX (DO NOT route to US or SG!)
+# =========================
+
+# > Binance (Global & EU)
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,binance.fr
+DOMAIN-SUFFIX,binance.it
+DOMAIN-SUFFIX,binance.es
+DOMAIN-SUFFIX,binance.de
+DOMAIN-SUFFIX,binance.pl
+DOMAIN-SUFFIX,binance.be
+DOMAIN-SUFFIX,binance.co.uk
+
+# > Bybit
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.eu
+DOMAIN-SUFFIX,bybit.nl
+
+# > Other Global Exchanges
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bingx.com
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,phemex.com
+DOMAIN-SUFFIX,weex.com
+DOMAIN-SUFFIX,lbank.com
+DOMAIN-SUFFIX,xt.com
+DOMAIN-SUFFIX,coinw.com
+DOMAIN-SUFFIX,toobit.com
+DOMAIN-SUFFIX,blofin.com
+DOMAIN-SUFFIX,bitmart.com
+DOMAIN-SUFFIX,digifinex.com
+DOMAIN-SUFFIX,whitebit.com
+DOMAIN-SUFFIX,ascendex.com
+DOMAIN-SUFFIX,bitrue.com
+DOMAIN-SUFFIX,poloniex.com
+
+# > European Native Exchanges & Brokers
+DOMAIN-SUFFIX,bitpanda.com
+DOMAIN-SUFFIX,bitvavo.com
+DOMAIN-SUFFIX,zondacrypto.com
+DOMAIN-SUFFIX,zondacrypto.exchange
+DOMAIN-SUFFIX,swissborg.com
+DOMAIN-SUFFIX,nexo.com
+DOMAIN-SUFFIX,nexo.io
+DOMAIN-SUFFIX,coinhouse.com
+DOMAIN-SUFFIX,bisonapp.com
+DOMAIN-SUFFIX,youngplatform.com
+DOMAIN-SUFFIX,kriptomat.io
+DOMAIN-SUFFIX,coinmetro.com
+DOMAIN-SUFFIX,finst.com
+DOMAIN-SUFFIX,anycoindirect.eu
+DOMAIN-SUFFIX,btcdirect.eu
