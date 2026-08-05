@@ -1,2 +1,2 @@
-IP-CIDR,0.0.0.0
-IP-CIDR6,::
+IP-CIDR,240.0.0.2/32,no-resolve
+IP-CIDR6,fd::2/128,no-resolve
